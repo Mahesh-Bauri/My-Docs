@@ -1,2 +1,2 @@
 # My-Docs
-This docs All types of Websites resources.
+This docs has All types of Websites resources.
