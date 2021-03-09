@@ -1,0 +1,213 @@
+https://github.com/airbnb/css
+https://tympanus.net/codrops/css_reference/
+https://websitesetup.org/html5-cheat-sheet/
+https://grid.malven.co/
+https://flexbox.malven.co/
+https://moderncss.dev/
+Most Important website : https://www.30secondsofcode.org/
+CSS https://cssreference.io/
+HTML Referance : https://htmlreference.io/
+FrontEnd Resources : https://www.frontendmentor.io/resources
+Coding Ninjas Data science and machine learning : chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/g6QF1CbI#yaQLJnbqrK3finwKe1hK7w
+Coding block FAANG course : chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/pyonxK5I#jACNEOIIC_-hDoXhu59q1A/folder/46QSUTiC
+Coding block Android dev course : chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/EepGhLRJ#0dIaqcM4mrSbljnKlZg0xQ
+4 TB resources : chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/m90FGK4T#i3RMXnLPJ4twkHkcMOodFw
+GFG Placement 100 : chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/64ljAAbD#-ZQcJwEuZ0M0RH8zD8iM7A
+CodeWithMosh : https://mega.nz/folder/E5o0HYQa#1hulnBtqBTyjjR2tPnKPfg
+Competitive coding CB https://mega.nz/folder/BHwh2QYa#hjQIhy4s6SvH7FHxmOqtcA
+CodingBlock Course : https://mega.nz/folder/tNR3iCDa#60KInLA1y9UpCghsseMk4w
+Best resources guide : https://roadmap.sh/guides
+OS lacture Video : https://www.cse.iitb.ac.in/~mythili/os/
+OS Notes iitb : https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html
+https://github.com/MisterBooo/LeetCodeAnimation
+https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+Prateek Narang Codingblock editorials: https://github.com/prateek27/editorials
+Competitive Coding resources : https://algocoding.wordpress.com/2015/04/21/notes-and-courses-for-competitive-programming/
+Visual algo : https://visualgo.net/en
+https://medium.com/javascript-in-plain-english/10-essential-github-repos-for-software-developers-6a42ebba279
+https://www.topcoder.com/community/competitive-programming/tutorials/
+CP Course : https://acm.wustl.edu/cse232/
+Purdue course : https://www.cs.purdue.edu/homes/jblocki/courses/
+MIT DSA Notes : https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-notes/
+https://www.cs.purdue.edu/homes/jblocki/courses/580_Spring19/
+https://www.cs.purdue.edu/homes/jblocki/courses/381_Fall19/
+Algorithm Design slides : https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/
+Learn CPP :https://practice.geeksforgeeks.org/batch/fork-cpp/
+https://www.geeksforgeeks.org/must-coding-questions-company-wise/
+Learning Books:https://drive.google.com/drive/u/0/folders/0BwJdvQM0LylNQW9oMldpY2Q5bUE
+E Book All types of : https://drive.google.com/drive/u/0/folders/0B2y2W9NWG9iWS0FpVEVhVkMwMms
+All ebooks : https://drive.google.com/drive/u/0/folders/0B5XfwA5Ax_d0U0hRU0pkT3hkb2s
+Learn CPP : https://tutorialspoint.dev/language/cpp/
+SDE Skill : https://github.com/sde-skills/meetupHandoutsAndCode
+IOI Level Sheet: https://docs.google.com/spreadsheets/d/1-n9Fnvhsnvsqh-IerE_yyIshw5RUNer_7EjwF_GW-TA/edit#gid=1918248438
+All Resources of Competitive coding : https://github.com/luctivud/All-Of-Competitive-Programming/tree/master/01-Material#Beginners
+CodeForces Ladder: https://github.com/karansinghgit/CodeForces-Ladders
+ACM-ICPC Prepration: https://github.com/BedirT/ACM-ICPC-Preparation
+https://github.com/the-hyp0cr1t3/CC/tree/master/Topics
+https://recommender.codedrills.io/tools/comparator
+https://www.fullstackresume.com/?utm_source=fsc&utm_medium=uvp
+Competitive coding resources:  https://docs.google.com/document/d/1HVAVWAWcq0rm_al-GG5IYV5VriwsuIxvGNpW11AVXHg/edit#heading=h.cdbikadlc7kq
+https://htmlreference.io/
+https://cssreference.io/
+https://copsiitbhu.co.in/
+https://www.codingninjas.com/blog/2020/12/31/how-to-build-a-solid-career-in-software-development/
+https://refactoring.guru/
+http://courses.cs.washington.edu/courses/cse373/
+https://courses.cs.washington.edu/courses/cse143/20au/
+https://mlh.io/
+https://www.oodesign.com/design-principles.html
+https://refactoring.guru/
+https://roadmap.sh/
+hashdin ::  https://docs.google.com/forms/d/1r7LYpHXRHdjT4Wnz-87DzOdd_38ypnBFDjiPtpV3mRk/viewform?ts=5fa52ac4&gxids=7628&edit_requested=true
+data structure : https://www.cs.princeton.edu/~wayne/kleinberg-tardos/
+https://www.crio.do/projects/
+competitive coding : https://www3.cs.stonybrook.edu/~skiena/392/audio/
+https://github.com/careercup/CtCI-6th-Edition-cpp
+https://www.freecodecamp.org/news/systems-design-for-interviews/#section-1-networks-and-protocols
+https://www.oodesign.com/
+https://github.com/donnemartin/system-design-primer/blob/master/README.md
+https://sourcemaking.com/
+https://github.com/lei-hsia/grokking-system-design
+https://medium.com/@aprabakar476/how-to-prepare-for-top-product-companies-dbb58c231cb5
+Abdul Bari all course: https://drive.google.com/drive/u/0/folders/17q2irXKpnY0GlpnD3cs0bthNUyl8G1iH
+https://drive.google.com/drive/u/0/folders/1iXaSUevDaYV2W17tHmONAwElacilfTLx
+https://workshops.hackclub.com/
+https://javascript.info/data-types
+https://flexbox.io/
+https://javascript30.com/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://open.spotify.com/show/3dDVSp6sK7EGfw09jkvIl8#login
+https://anchor.fm/tanaypratap/episodes/avoiding-DS-n-Algo-questions-in-interviews-ft--Kamlesh-ed2tga
+javaScript: https://javascript.info/
+database : https://web.stanford.edu/class/cs245/
+Vanilla JavaScript : https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks#:~:text=What%20is%20%22Vanilla%20JavaScript%22%3F&text=%22VanillaJS%20is%20a%20name%20to,need%20for%20additional%20JavaScript%20libraries.%22
+Android 11 weeks : https://developer.android.com/courses/topics/android-11-weeks
+Android training : https://googlepartnertraining.fathomed.com/certification-plans/5e868d4afb5a20f3a5b508e3/intro-android
+https://www.cs.purdue.edu/homes/cs390cp/
+https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/
+https://sites.google.com/site/igorshinkar/cs102spring2016/lectures
+https://cs.nyu.edu/courses/spring16/
+https://dspace.mit.edu/bitstream/handle/1721.1/37150/6-046JFall-2004/OcwWeb/Electrical-Engineering-and-Computer-Science/6-046JFall-2004/LectureNotes/index.htm
+https://www.cs.purdue.edu/homes/ninghui/courses/CPi/
+https://cs.nyu.edu/courses/spring18/CSCI-UA.0480-004/
+https://onlinejudge.org/external/
+https://csfirst.withgoogle.com/c/cs-first/en/cs-first-tutorials/getting-started-with-cs-first/introduction.html
+https://www.levels.fyi/company/Google/salaries/Software-Engineer/
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/lecture-notes/
+https://see.stanford.edu/Course/CS106B
+https://www.cs.mun.ca/~dchurchill/pc/pdf/algorithms_1.pdf
+https://www.topcoder.com/github-repositories-with-competitive-programming-libraries/
+https://web.stanford.edu/class/cs142/lectures.html
+https://explorecourses.stanford.edu/
+https://web.stanford.edu/class/cs106e/
+https://sites.google.com/site/mostafasibrahim/home
+https://web.stanford.edu/class/cs106b/
+https://web.stanford.edu/class/cs106a/
+https://www.mathsisfun.com/
+https://www.codechef.com/ioi/basics
+https://kenkoooo.com/atcoder/#/table/mahesh_hacker
+https://workat.tech/
+https://surya1231.github.io/Codeforces-contest/
+https://www.educative.io/
+https://algo.is/
+https://www.dcc.fc.up.pt/~pribeiro/aulas/pc1920/
+https://www.cs.utexas.edu/users/downing/cs104c/Resources.html
+http://isaac.lsu.edu/class_2020_spring/approach.php
+http://isaac.lsu.edu/class_2020_spring/references.php
+Uva classification http://www.cs.uleth.ca/~cheng/contest/hints.html#area0
+https://cs.nyu.edu/courses/summer13/CSCI-UA.0380-001/
+https://onlinejudge.org/board/
+http://courses.cse.tamu.edu/keyser/csce430/
+https://contest.cs.cmu.edu/295/
+https://contest.cs.cmu.edu/295/s20/
+https://www.cs.cmu.edu/afs/cs/academic/class/15451-f17/www/lectures/
+https://www.cs.cmu.edu/afs/cs/academic/class/15451-f17/www/
+https://code-library.herokuapp.com/
+https://discuss.codechef.com/t/data-structures-and-algorithms/6599
+https://codeforces.com/blog/entry/13529
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+https://www.topcoder.com/community/competitive-programming/tutorials/
+https://guides.codepath.com/android
+https://kotlin.link/
+https://yangshun.github.io/tech-interview-handbook/
+https://github.com/kdn251/interviews/tree/master/leetcode
+https://devdocs.io/
+https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know
+https://placeit.net/
+https://www.sketchappsources.com/
+https://github.com/public-apis/public-apis
+https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0
+http://careerhigh.in/Programming/Competitive%20Programming%20for%20Beginners%20Roadmap
+https://www.geeksforgeeks.org/lmns-algorithms-gq/
+https://learning.tcsionhub.in/courses/career-edge/
+https://startupindia.upgrad.com/v/course/15/session/505/segment/1930
+https://wiki.algo.is/
+https://algo.is/competitive-programming-course/
+https://www3.cs.stonybrook.edu/~algorith/video-lectures/
+https://algorithmist.com/wiki/Main_Page
+https://uxplanet.org/create-emotion-with-color-in-ux-design-446a3766b085#.833er7ned
+https://gitter.im/
+https://www.youtube.com/channel/UC4uPfwRHPbYlmjNMiKIdWNg
+https://www.techiedelight.com/list-of-problems/
+http://web.stanford.edu/class/cs97si/
+https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0
+https://blog.mindorks.com/
+https://drive.google.com/drive/folders/1XdXeSlXlOYinQPLOKS1GEMo2iSkNjlC-
+https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/
+https://medium.com/@aditya.verma.manit/learn-top-10-dynamic-programming-patterns-3f6d5466d686
+http://appsgamesinsights.googledevelopers.libsynpro.com/
+https://www.geeksforgeeks.org/how-to-approach-a-coding-problem/
+https://medium.com/better-programming/how-to-ace-the-coding-interview-by-an-ex-facebook-interviewer-9c163a845d05
+https://medium.com/swlh/how-to-solve-any-code-challenge-or-algorithm-c66e0bed9dc9
+https://www.freecodecamp.org/news/best-developer-communities-to-be-part-of-in-2020/
+https://www.geeksforgeeks.org/how-to-approach-a-coding-problem/
+https://github.com/MindorksOpenSource/android-developer-roadmap
+https://github.com/tapaswenipathak
+https://github.com/OpenSourceHelpCommunity
+https://www.vogella.com/tutorials/AndroidIntent/article.html
+https://github.com/shashishailaj/Competitive-Programming
+https://csacademy.com/contest/archive/tasks/
+https://csfirst.withgoogle.com/s/en/home
+https://appliedcsskills.withgoogle.com/
+https://devfolio.co/hackathons
+https://github.com/EbookFoundation/free-programming-books/blob/master/problem-sets-competitive-programming.md
+https://medium.com/@anirbanroydas/competitive-programmer-vs-developer-lets-talk-91f37f819d65
+
+Practice for cracking any coding interview
+
+https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/
+
+
+Why Data Structures and Algorithms Are Important to Learn?
+
+https://www.geeksforgeeks.org/why-data-structures-and-algorithms-are-important-to-learn/
+
+I Can’t Use Logic In Programming. What Should I Do?
+https://www.geeksforgeeks.org/i-cant-use-logic-in-programming-what-should-i-do/
+
+code chef DSA cirtificate preperation 
+https://www.codechef.com/certification/data-structures-and-algorithms/prepare
+https://github.com/sindresorhus/awesome
+https://blog.codingblocks.com/2019/start-with-competitive-programming/
+https://discuss.codechef.com/t/data-structures-and-algorithms/6599
+http://cp-algorithms.com/
+https://app.codility.com/programmers/
+https://www.hackerearth.com/getstarted-competitive-programming/
+https://google.qwiklabs.com/
+https://www.bitdegree.org/learning-path/android-dev
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://www.javacodegeeks.com/java-interview-questions.html
+https://github.com/EbookFoundation/free-programming-books/blob/master/problem-sets-competitive-programming.md
+https://clist.by/
+https://open.kattis.com/
+https://github.com/shashishailaj/Competitive-Programming
+https://www.iarcs.org.in/inoi/contests/allproblems.php#Basic
+https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md
+https://techbeacon.com/app-dev-testing/how-master-android-what-developers-can-learn-21-apps
+https://collectui.com/challenges/calculator
+https://learnux.io/course/adobe-xd
+https://www.uplabs.com/posts/tool/xd
+https://guides.codepath.com/android
+https://caster.io/
+https://basicenglishspeaking.com/
