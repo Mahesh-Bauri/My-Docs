@@ -8,14 +8,8 @@ Most Important website : https://www.30secondsofcode.org/
 CSS https://cssreference.io/
 HTML Referance : https://htmlreference.io/
 FrontEnd Resources : https://www.frontendmentor.io/resources
-Coding Ninjas Data science and machine learning : chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/g6QF1CbI#yaQLJnbqrK3finwKe1hK7w
-Coding block FAANG course : chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/pyonxK5I#jACNEOIIC_-hDoXhu59q1A/folder/46QSUTiC
-Coding block Android dev course : chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/EepGhLRJ#0dIaqcM4mrSbljnKlZg0xQ
 4 TB resources : chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/m90FGK4T#i3RMXnLPJ4twkHkcMOodFw
-GFG Placement 100 : chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#folder/64ljAAbD#-ZQcJwEuZ0M0RH8zD8iM7A
 CodeWithMosh : https://mega.nz/folder/E5o0HYQa#1hulnBtqBTyjjR2tPnKPfg
-Competitive coding CB https://mega.nz/folder/BHwh2QYa#hjQIhy4s6SvH7FHxmOqtcA
-CodingBlock Course : https://mega.nz/folder/tNR3iCDa#60KInLA1y9UpCghsseMk4w
 Best resources guide : https://roadmap.sh/guides
 OS lacture Video : https://www.cse.iitb.ac.in/~mythili/os/
 OS Notes iitb : https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html
